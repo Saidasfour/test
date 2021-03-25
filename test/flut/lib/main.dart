@@ -5,7 +5,7 @@ main() {
   runApp(MaterialApp(
     home:Scaffold(
       appBar:AppBar(
-title: Text('Bassam Changed This Title'),
+title: Text('AppBar New Title'),
       ),
       body: Center(
         child:Text("my first app",
